@@ -6,4 +6,6 @@ size of 20px, and center aligned.*/
 .container .text{
     background-color: rgb(248, 244, 15);
     color: hsl(2,100%,55%);
+    font-size: 20px;
+    text-align: center;
 }
